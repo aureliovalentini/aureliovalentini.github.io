@@ -1,0 +1,45 @@
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+	color: #000000;
+	background-color: #94BA45;
+	background-image: url('../media/1444219622_dna.jpg');
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: left top;
+	background-size: auto;
+	font-family: Times New Roman;
+	font-size: 12pt;
+}
+.class_title {
+}
+.class_subtitle {
+}
+.class_remarks {
+	font-family: Times New Roman;
+	font-size: 12pt;
+}
+.class_qst_format {
+	font-family: Times New Roman;
+	font-size: 12pt;
+}
+.class_before_after_qst_format {
+	font-family: Times New Roman;
+	font-size: 12pt;
+}
+.class_ans_format {
+	font-family: Times New Roman;
+	font-size: 12pt;
+}
+.class_feedback_format {
+}
+.class_feedback_table_format {
+	border-width: 0px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 10px;
+}
+
